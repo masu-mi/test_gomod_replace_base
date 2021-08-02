@@ -8,3 +8,5 @@ github.com/masu-mi/test_gomod_replace_dep_b v0.2.2 h1:5fVH1Go2bFbRiH+mN/nZ9AWXwq
 github.com/masu-mi/test_gomod_replace_dep_b v0.2.2/go.mod h1:ShtKXxJ5LNRwmag0WX3wj/u5JnnaLRZmagTKjuZ7khE=
 github.com/masu-mi/test_gomod_replace_dep_b v0.2.3 h1:YP/Bia8nRbGvRopw8Hstx9efp5IncE4PF7jHXTRgi4A=
 github.com/masu-mi/test_gomod_replace_dep_b v0.2.3/go.mod h1:ShtKXxJ5LNRwmag0WX3wj/u5JnnaLRZmagTKjuZ7khE=
+github.com/masu-mi/test_gomod_replace_dep_b/v2 v2.0.1 h1:RKbV5wo7JEiW6/Xo2jO66GZajluXkIFplLD3KKpmpwI=
+github.com/masu-mi/test_gomod_replace_dep_b/v2 v2.0.1/go.mod h1:feei8bM14r8O+QDWt2E45dx72wXFbpfhE7IpESZ8LTw=

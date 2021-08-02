@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	test_gomod_replace_dep_a "github.com/masu-mi/test_gomod_replace_dep_a"
-	"github.com/masu-mi/test_gomod_replace_dep_a/interfaces"
+	test_gomod_replace_dep_a "github.com/masu-mi/test_gomod_replace_dep_a/v2"
+	"github.com/masu-mi/test_gomod_replace_dep_a/v2/interfaces"
 )
 
 func main() {
