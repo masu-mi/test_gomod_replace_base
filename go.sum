@@ -1,2 +1,10 @@
 github.com/masu-mi/test_gomod_replace_dep_a v0.1.0 h1:Oh5bbsz97mRzW1mGIRAucGSQ6eeQFITdNsml+5r/MZo=
 github.com/masu-mi/test_gomod_replace_dep_a v0.1.0/go.mod h1:ShtKXxJ5LNRwmag0WX3wj/u5JnnaLRZmagTKjuZ7khE=
+github.com/masu-mi/test_gomod_replace_dep_b v0.2.0 h1:hk8HVco8eYNXZ8vWV0Hjprg/jOdcwtSDG8ENzSYnCO0=
+github.com/masu-mi/test_gomod_replace_dep_b v0.2.0/go.mod h1:msdp5auWU+K/1iDpP8Z2AGdet+WGAe1oR2C2r2UQi8E=
+github.com/masu-mi/test_gomod_replace_dep_b v0.2.1 h1:k4ecX0k+a7JjKsqTyZf0YRSNoDHrUidbVaYI7rPEOio=
+github.com/masu-mi/test_gomod_replace_dep_b v0.2.1/go.mod h1:ShtKXxJ5LNRwmag0WX3wj/u5JnnaLRZmagTKjuZ7khE=
+github.com/masu-mi/test_gomod_replace_dep_b v0.2.2 h1:5fVH1Go2bFbRiH+mN/nZ9AWXwqG63PzCvOgZbcG5/CE=
+github.com/masu-mi/test_gomod_replace_dep_b v0.2.2/go.mod h1:ShtKXxJ5LNRwmag0WX3wj/u5JnnaLRZmagTKjuZ7khE=
+github.com/masu-mi/test_gomod_replace_dep_b v0.2.3 h1:YP/Bia8nRbGvRopw8Hstx9efp5IncE4PF7jHXTRgi4A=
+github.com/masu-mi/test_gomod_replace_dep_b v0.2.3/go.mod h1:ShtKXxJ5LNRwmag0WX3wj/u5JnnaLRZmagTKjuZ7khE=
